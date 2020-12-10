@@ -4,8 +4,6 @@ import magpylib as magpy
 import matplotlib.pyplot as plt
 import matplotlib as mpl
 import matplotlib.font_manager as fm
-from openpyxl import load_workbook
-from magpylib import Collection, displaySystem
 from matplotlib import ticker, cm
 from magpylib._lib.mathLib import fastSum3D
 
